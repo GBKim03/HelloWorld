@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello FristBranch!" << endl;
+    cout << "Hello 2nd Branch!" << endl;
     return 0;
-} 
+}   
